@@ -1,0 +1,129 @@
+{
+  "loginInfo": {
+    "name": "Erererererr",
+    "id": 52,
+    "message": "Success",
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJlckB5b3BtYWlsLmNvbSIsImlhdCI6MTcyNzUxNDc3MCwiZXhwIjoxNzI3NTE2NTcwfQ.dzgxbDIFPkOAJd15NIDYRGgBUnvEGUiJcAT4Imz65Tc",
+    "userType": "Hospital"
+  },
+  "upcomingAppointments": [
+    {
+      "id": 105,
+      "patientId": {
+        "id": 152,
+        "patientName": "Muhammad Umar ",
+        "patientDob": "1992-10-14",
+        "patientEmail": "patient@yopmail.com",
+        "patientContact": 7856453453,
+        "patientCurrentLocation": null
+      },
+      "hospitalId": {
+        "id": 52,
+        "name": "Erererererr",
+        "clinicEmail": "er@yopmail.com",
+        "clinicContact": 4643134644,
+        "location": "25.1625654,55.2644712",
+        "clinicWebsite": "",
+        "clinicAddress": "Al Quoz 1, Dubai, United Arab Emirates"
+      },
+      "checkInStatus": null,
+      "checkInDate": null,
+      "checkInCancellationDate": null,
+      "estimatedAppointmentTime": "2024-09-27T15:29:55.764+00:00",
+      "bookingStatus": "Booked",
+      "bookingDate": "2024-09-27T15:29:54.707+00:00",
+      "bookingCancellationDate": null,
+      "patientLocation": "25.1625745,55.2644089",
+      "eta": "0"
+    }
+  ],
+  "pastAppointments": [
+    {
+      "id": 103,
+      "patientId": {
+        "id": 152,
+        "patientName": "Muhammad Umar ",
+        "patientDob": "1992-10-14",
+        "patientEmail": "patient@yopmail.com",
+        "patientContact": 7856453453,
+        "patientCurrentLocation": null
+      },
+      "hospitalId": {
+        "id": 52,
+        "name": "Erererererr",
+        "clinicEmail": "er@yopmail.com",
+        "clinicContact": 4643134644,
+        "location": "25.1625654,55.2644712",
+        "clinicWebsite": "",
+        "clinicAddress": "Al Quoz 1, Dubai, United Arab Emirates"
+      },
+      "checkInStatus": "No Show",
+      "checkInDate": null,
+      "checkInCancellationDate": "2024-09-27T15:27:52.811+00:00",
+      "estimatedAppointmentTime": "2024-09-27T15:25:48.611+00:00",
+      "bookingStatus": "Booked",
+      "bookingDate": "2024-09-27T15:25:47.649+00:00",
+      "bookingCancellationDate": null,
+      "patientLocation": "25.1625745,55.2644089",
+      "eta": "0"
+    },
+    {
+      "id": 104,
+      "patientId": {
+        "id": 152,
+        "patientName": "Muhammad Umar ",
+        "patientDob": "1992-10-14",
+        "patientEmail": "patient@yopmail.com",
+        "patientContact": 7856453453,
+        "patientCurrentLocation": null
+      },
+      "hospitalId": {
+        "id": 52,
+        "name": "Erererererr",
+        "clinicEmail": "er@yopmail.com",
+        "clinicContact": 4643134644,
+        "location": "25.1625654,55.2644712",
+        "clinicWebsite": "",
+        "clinicAddress": "Al Quoz 1, Dubai, United Arab Emirates"
+      },
+      "checkInStatus": "Checked In",
+      "checkInDate": "2024-09-27T15:29:46.123+00:00",
+      "checkInCancellationDate": null,
+      "estimatedAppointmentTime": "2024-09-27T15:29:24.070+00:00",
+      "bookingStatus": "Booked",
+      "bookingDate": "2024-09-27T15:29:23.332+00:00",
+      "bookingCancellationDate": null,
+      "patientLocation": "25.1625745,55.2644089",
+      "eta": "0"
+    },
+    {
+      "id": 105,
+      "patientId": {
+        "id": 152,
+        "patientName": "Muhammad Umar ",
+        "patientDob": "1992-10-14",
+        "patientEmail": "patient@yopmail.com",
+        "patientContact": 7856453453,
+        "patientCurrentLocation": null
+      },
+      "hospitalId": {
+        "id": 52,
+        "name": "Erererererr",
+        "clinicEmail": "er@yopmail.com",
+        "clinicContact": 4643134644,
+        "location": "25.1625654,55.2644712",
+        "clinicWebsite": "",
+        "clinicAddress": "Al Quoz 1, Dubai, United Arab Emirates"
+      },
+      "checkInStatus": null,
+      "checkInDate": null,
+      "checkInCancellationDate": null,
+      "estimatedAppointmentTime": "2024-09-27T15:29:55.764+00:00",
+      "bookingStatus": "Booked",
+      "bookingDate": "2024-09-27T15:29:54.707+00:00",
+      "bookingCancellationDate": null,
+      "patientLocation": "25.1625745,55.2644089",
+      "eta": "0"
+    }
+  ]
+}

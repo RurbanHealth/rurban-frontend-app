@@ -1,0 +1,16 @@
+{
+    "welcome": "Welcome to our app",
+    "login": "Login",
+    "logout": "Logout",
+    "username": "Username",
+    "password": "Password",
+    "email": "Email",
+    "switch_to_english": "Switch to English",
+    "switch_to_french": "Switch to French",
+    "switch_to_arabic": "Switch to Arabic",
+    "error": {
+      "invalid_email": "Invalid email",
+      "required_field": "This field is required"
+    }
+  }
+  

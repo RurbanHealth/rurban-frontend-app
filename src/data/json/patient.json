@@ -1,0 +1,69 @@
+{
+  "loginInfo": {
+    "name": "Muhammad Umar ",
+    "id": 152,
+    "userType": "Patient",
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJwYXRpZW50QHlvcG1haWwuY29tIiwiaWF0IjoxNzI3NTE0OTUyLCJleHAiOjE3Mjc1MTY3NTJ9.p-FOeXdJOETRFZ8DhxB_Bf_EuGYBaZnYjW1D-Oq9y-E",
+    "message": "Success"
+  },
+  "userCheckins": [
+    {
+      "id": 152,
+      "patientId": {
+        "id": 152,
+        "patientName": "Muhammad Umar ",
+        "patientDob": "1992-10-14",
+        "patientEmail": "patient@yopmail.com",
+        "patientContact": 7856453453,
+        "patientCurrentLocation": null
+      },
+      "hospitalId": {
+        "id": 1,
+        "name": "Fakeen University",
+        "clinicEmail": "aakib.majid.742@gmail.com",
+        "clinicContact": 9582888204,
+        "location": "25.1101184,55.3713664",
+        "clinicWebsite": "www.fakeen.com",
+        "clinicAddress": "City of Arabia, Dubai, United Arab Emirates"
+      },
+      "checkInStatus": null,
+      "checkInDate": null,
+      "checkInCancellationDate": null,
+      "estimatedAppointmentTime": "2024-09-28T09:33:04.274+00:00",
+      "bookingStatus": "Booked",
+      "bookingDate": "2024-09-28T09:18:01.253+00:00",
+      "bookingCancellationDate": null,
+      "patientLocation": "25.1625722,55.2644094",
+      "eta": "15"
+    }
+  ],
+  "clinics": [
+    {
+      "id": 1,
+      "name": "Fakeen University",
+      "clinicEmail": "aakib.majid.742@gmail.com",
+      "clinicContact": 9582888204,
+      "location": "25.1101184,55.3713664",
+      "clinicWebsite": "www.fakeen.com",
+      "clinicAddress": "City of Arabia, Dubai, United Arab Emirates"
+    },
+    {
+      "id": 2,
+      "name": "Muhammad Zain ER",
+      "clinicEmail": "zain@yopmail.com",
+      "clinicContact": 971568164533,
+      "location": "string",
+      "clinicWebsite": "www.example.com",
+      "clinicAddress": "string"
+    },
+    {
+      "id": 52,
+      "name": "Erererererr",
+      "clinicEmail": "er@yopmail.com",
+      "clinicContact": 4643134644,
+      "location": "25.1625654,55.2644712",
+      "clinicWebsite": "",
+      "clinicAddress": "Al Quoz 1, Dubai, United Arab Emirates"
+    }
+  ]
+}

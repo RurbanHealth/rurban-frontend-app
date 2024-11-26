@@ -1,0 +1,32 @@
+{
+  // "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "jsx": "react-native",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,  // allow JSON imports
+    "allowSyntheticDefaultImports": true, //  allow JSON imports
+    "baseUrl": "./",
+    "paths": {
+      "@assets/*": ["src/assets/*"],
+      "@typescript/*": ["src/typescript/*"],
+      "@validations/*": ["src/lib/validations/*"],
+      "@components/*": ["src/lib/components/*"],
+      "@utils/*": ["src/utils/*"],
+      "@hooks/*": ["src/data/hooks/*"],
+      "@redux/*": ["src/data/redux/*"],
+      "@navigation/*": ["src/navigation/*"],
+      "@screens/*": ["src/screens/*"],
+      // "@services/*": ["src/services/*"]
+    },
+    "types": ["react", "react-native", "node"]
+  },
+  "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.json", "index.ts", "index.tsx"],
+  "exclude": ["node_modules"]
+}
